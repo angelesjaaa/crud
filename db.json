@@ -1,7 +1,7 @@
 {
-  "contacts": 
+  "contacts": [
     { "id": 1, "name": "Post 1" },
     { "id": 2, "e-mail": "Post 2" },
     { "id": 3, "contactno": "Post 3" }
-  
+  ]
 }
